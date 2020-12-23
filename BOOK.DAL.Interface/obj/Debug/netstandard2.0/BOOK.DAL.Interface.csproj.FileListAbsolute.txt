@@ -1,0 +1,12 @@
+F:\BOOK\BOOK.DAL.Interface\bin\Debug\netstandard2.0\BOOK.DAL.Interface.deps.json
+F:\BOOK\BOOK.DAL.Interface\bin\Debug\netstandard2.0\BOOK.DAL.Interface.dll
+F:\BOOK\BOOK.DAL.Interface\bin\Debug\netstandard2.0\BOOK.DAL.Interface.pdb
+F:\BOOK\BOOK.DAL.Interface\bin\Debug\netstandard2.0\BOOK.Domian.dll
+F:\BOOK\BOOK.DAL.Interface\bin\Debug\netstandard2.0\BOOK.Domian.pdb
+F:\BOOK\BOOK.DAL.Interface\obj\Debug\netstandard2.0\BOOK.DAL.Interface.csprojAssemblyReference.cache
+F:\BOOK\BOOK.DAL.Interface\obj\Debug\netstandard2.0\BOOK.DAL.Interface.AssemblyInfoInputs.cache
+F:\BOOK\BOOK.DAL.Interface\obj\Debug\netstandard2.0\BOOK.DAL.Interface.AssemblyInfo.cs
+F:\BOOK\BOOK.DAL.Interface\obj\Debug\netstandard2.0\BOOK.DAL.Interface.csproj.CoreCompileInputs.cache
+F:\BOOK\BOOK.DAL.Interface\obj\Debug\netstandard2.0\BOOK.DAL.Interface.csproj.CopyComplete
+F:\BOOK\BOOK.DAL.Interface\obj\Debug\netstandard2.0\BOOK.DAL.Interface.dll
+F:\BOOK\BOOK.DAL.Interface\obj\Debug\netstandard2.0\BOOK.DAL.Interface.pdb

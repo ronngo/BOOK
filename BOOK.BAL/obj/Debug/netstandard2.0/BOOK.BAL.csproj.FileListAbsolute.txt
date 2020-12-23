@@ -1,0 +1,16 @@
+F:\BOOK\BOOK.BAL\bin\Debug\netstandard2.0\BOOK.BAL.deps.json
+F:\BOOK\BOOK.BAL\bin\Debug\netstandard2.0\BOOK.BAL.dll
+F:\BOOK\BOOK.BAL\bin\Debug\netstandard2.0\BOOK.BAL.pdb
+F:\BOOK\BOOK.BAL\bin\Debug\netstandard2.0\BOOK.BAL.Interface.dll
+F:\BOOK\BOOK.BAL\bin\Debug\netstandard2.0\BOOK.DAL.Interface.dll
+F:\BOOK\BOOK.BAL\bin\Debug\netstandard2.0\BOOK.Domian.dll
+F:\BOOK\BOOK.BAL\bin\Debug\netstandard2.0\BOOK.BAL.Interface.pdb
+F:\BOOK\BOOK.BAL\bin\Debug\netstandard2.0\BOOK.DAL.Interface.pdb
+F:\BOOK\BOOK.BAL\bin\Debug\netstandard2.0\BOOK.Domian.pdb
+F:\BOOK\BOOK.BAL\obj\Debug\netstandard2.0\BOOK.BAL.csprojAssemblyReference.cache
+F:\BOOK\BOOK.BAL\obj\Debug\netstandard2.0\BOOK.BAL.AssemblyInfoInputs.cache
+F:\BOOK\BOOK.BAL\obj\Debug\netstandard2.0\BOOK.BAL.AssemblyInfo.cs
+F:\BOOK\BOOK.BAL\obj\Debug\netstandard2.0\BOOK.BAL.csproj.CoreCompileInputs.cache
+F:\BOOK\BOOK.BAL\obj\Debug\netstandard2.0\BOOK.BAL.csproj.CopyComplete
+F:\BOOK\BOOK.BAL\obj\Debug\netstandard2.0\BOOK.BAL.dll
+F:\BOOK\BOOK.BAL\obj\Debug\netstandard2.0\BOOK.BAL.pdb

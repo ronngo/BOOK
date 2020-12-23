@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QIcR+4EcL6+wgSqDX0Cttp+BEcZS21E66Iw7POCKv67+SoSgUaT19i7nHmYaFI4BTVUbRh1j/PDTAcZAwUi3pg==",
+  "success": true,
+  "projectFilePath": "F:\\BOOK\\BOOK.DAL.Interface\\BOOK.DAL.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

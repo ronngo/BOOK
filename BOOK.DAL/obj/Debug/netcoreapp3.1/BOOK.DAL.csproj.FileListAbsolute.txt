@@ -1,0 +1,14 @@
+F:\BOOK\BOOK.DAL\bin\Debug\netcoreapp3.1\BOOK.DAL.deps.json
+F:\BOOK\BOOK.DAL\bin\Debug\netcoreapp3.1\BOOK.DAL.dll
+F:\BOOK\BOOK.DAL\obj\Debug\netcoreapp3.1\BOOK.DAL.csprojAssemblyReference.cache
+F:\BOOK\BOOK.DAL\obj\Debug\netcoreapp3.1\BOOK.DAL.AssemblyInfoInputs.cache
+F:\BOOK\BOOK.DAL\obj\Debug\netcoreapp3.1\BOOK.DAL.AssemblyInfo.cs
+F:\BOOK\BOOK.DAL\bin\Debug\netcoreapp3.1\BOOK.DAL.pdb
+F:\BOOK\BOOK.DAL\bin\Debug\netcoreapp3.1\BOOK.DAL.Interface.dll
+F:\BOOK\BOOK.DAL\bin\Debug\netcoreapp3.1\BOOK.Domian.dll
+F:\BOOK\BOOK.DAL\bin\Debug\netcoreapp3.1\BOOK.DAL.Interface.pdb
+F:\BOOK\BOOK.DAL\bin\Debug\netcoreapp3.1\BOOK.Domian.pdb
+F:\BOOK\BOOK.DAL\obj\Debug\netcoreapp3.1\BOOK.DAL.csproj.CoreCompileInputs.cache
+F:\BOOK\BOOK.DAL\obj\Debug\netcoreapp3.1\BOOK.DAL.csproj.CopyComplete
+F:\BOOK\BOOK.DAL\obj\Debug\netcoreapp3.1\BOOK.DAL.dll
+F:\BOOK\BOOK.DAL\obj\Debug\netcoreapp3.1\BOOK.DAL.pdb

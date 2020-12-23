@@ -1,0 +1,9 @@
+F:\BOOK\BOOK.Domian\bin\Debug\netstandard2.0\BOOK.Domian.deps.json
+F:\BOOK\BOOK.Domian\bin\Debug\netstandard2.0\BOOK.Domian.dll
+F:\BOOK\BOOK.Domian\bin\Debug\netstandard2.0\BOOK.Domian.pdb
+F:\BOOK\BOOK.Domian\obj\Debug\netstandard2.0\BOOK.Domian.AssemblyInfoInputs.cache
+F:\BOOK\BOOK.Domian\obj\Debug\netstandard2.0\BOOK.Domian.AssemblyInfo.cs
+F:\BOOK\BOOK.Domian\obj\Debug\netstandard2.0\BOOK.Domian.csproj.CoreCompileInputs.cache
+F:\BOOK\BOOK.Domian\obj\Debug\netstandard2.0\BOOK.Domian.dll
+F:\BOOK\BOOK.Domian\obj\Debug\netstandard2.0\BOOK.Domian.pdb
+F:\BOOK\BOOK.Domian\obj\Debug\netstandard2.0\BOOK.Domian.csprojAssemblyReference.cache
